@@ -1,0 +1,24 @@
+{
+  "name": "github-testing-bot",
+  "version": "1.0.0",
+  "description": "A bot to auto test and auto add code for refactoring.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nairsajjal/github-testing-bot.git"
+  },
+  "author": "nairsajjal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nairsajjal/github-testing-bot/issues"
+  },
+  "homepage": "https://github.com/nairsajjal/github-testing-bot#readme",
+  "dependencies": {
+    "jsonfile": "^6.0.1",
+    "moment": "^2.24.0",
+    "simple-git": "^1.132.0"
+  }
+}
